@@ -1,0 +1,6 @@
+{
+  "name": "Prisma IA — Fractal Sem Limites (Período 1)",
+  "description": "Traderoom Prisma IA com detector de fractal de período 1 e sinais sincronizados na abertura da vela de 1 minuto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
